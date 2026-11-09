@@ -1,0 +1,17 @@
+{
+  "name": "仕分けQR表示",
+  "short_name": "仕分けQR",
+  "description": "写真の自動仕分け用の区切りQRをスマホに表示します",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#0b57d0",
+  "lang": "ja",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
